@@ -4,6 +4,10 @@ It's pronounced `/pərsēə/` or _[ pur-see-ah ]_. :wink:
 
 The following summarizes the process for contributing to the Pyrsia project.
 
+## Code of Conduct
+
+We follow the OpenSSF's (Open Source Security Foundation) [code of conduct](https://openssf.org/community/code-of-conduct/)
+
 ## Dev-flow & Pull Requests
 
 Pyrsia follows the ["Forking Workflow"](https://blog.devgenius.io/git-forking-workflow-bbba0226d39c). You can see GitHub's
