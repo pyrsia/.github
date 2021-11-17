@@ -1,4 +1,4 @@
-![Pyrsia](/images/banner.svg)
+![Pyrsia](/images/logo-color.svg)
 
 > Frictionless. Distrubuted. Zero Trust.
 
