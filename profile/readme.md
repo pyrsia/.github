@@ -1,6 +1,9 @@
 ![Pyrsia](/images/logo-color.svg)
 
-> Frictionless. Distributed. Zero Trust.
+> Zero-Trust Decentralized Package Network
+
+We care about improving the security of open source software and supply chain security of these libraries that are critical for software development.
+Pyrsia aims to secure the software supply chain of open-source dependencies by creating a system that secures open-source builds and distribution.
 
 ## Get Involved
 
@@ -8,9 +11,7 @@ Right now, open communities are building amazing software together, and there ar
 
 * [Explore featured projects](https://github.com/orgs/pyrsia/repositories)
 
-Visit [opensource.microsoft.com](https://github.com/pyrsia) to learn more!
-
 ----
 
-Microsoft projects adopt the [OpenSSF Code of Conduct](https://openssf.org/community/code-of-conduct/).
+Pyrsia projects adopt the [OpenSSF's Code of Conduct](https://openssf.org/community/code-of-conduct/).
 For more information see the [Code of Conduct FAQ](https://www.contributor-covenant.org/faq/).
