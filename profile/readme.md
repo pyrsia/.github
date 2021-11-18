@@ -1,6 +1,6 @@
 ![Pyrsia](/images/logo-color.svg)
 
-> Frictionless. Distrubuted. Zero Trust.
+> Frictionless. Distributed. Zero Trust.
 
 ## Get Involved
 
