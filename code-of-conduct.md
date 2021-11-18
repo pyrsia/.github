@@ -1,4 +1,6 @@
-# Pyrsia Contributor Covenant Code of Conduct
+[Available here](https://openssf.org/community/code-of-conduct/)
+
+# OpenSSF Code of Conduct
 
 ## Our Pledge
 
