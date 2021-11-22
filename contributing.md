@@ -8,7 +8,7 @@ The following summarizes the process for contributing to the Pyrsia project.
 
 We follow the OpenSSF's (Open Source Security Foundation) [code of conduct](https://openssf.org/community/code-of-conduct/)
 
-## Dev-flow & Pull Requests
+## Dev-flow and Pull Requests
 
 Pyrsia follows the ["Forking Workflow"](https://blog.devgenius.io/git-forking-workflow-bbba0226d39c). You can see GitHub's
 [About collaborative development models](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/getting-started/about-collaborative-development-models#fork-and-pull-model).
@@ -25,6 +25,37 @@ To contribute follow the next steps:
    , referring to the issue of step 1.
 
 The `pyrsia` organization maintainers will review and help with merge accepted changes.
+
+### Project Board
+
+All open tickets related to on going work are track in a [project board](https://docs.github.com/en/issues/organizing-your-work-with-project-boards).
+You can see upcomming, future and completed wokr [here](https://github.com/orgs/pyrsia/projects/2).
+
+### Pull Request Approval
+
+All pull requests require:
+
+- 2 approvals
+- All tests passing
+
+### Milestones
+
+[Learn more](https://docs.github.com/en/issues/using-labels-and-milestones-to-track-work/about-milestones)
+
+Milestones are used to represent incremental functionality targets (this definition is subject to change as we move towards our _minimum viable product (MVP)_). These guide posts are used to help prioritize the issues and pull requests.
+
+All pull requests are assigned to a milestone, where as issues are almost never assigned to a milestone as the mean lifetime of an issue long enough that they do not make sense to track them temporally until they are schedualed in an upcoming sprint.
+
+### Labels
+
+[Learn how](https://docs.github.com/en/issues/using-labels-and-milestones-to-track-work/managing-labels#applying-a-label)
+
+Labels are used to sort and describe issues and pull requests. Some labels are usually reserved for one or the other, though most labels may be applied to both.
+
+They may be used to:
+
+- highlight the state of completion, such as "In Review" or "Blocked"
+- organizing according to the source code relevant to issues or the source code changed by pull requests, such as "Blockchain", "Discovery", or "Transport"
 
 ## Legal
 
