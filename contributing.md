@@ -36,7 +36,7 @@ You can see upcomming, future and completed wokr [here](https://github.com/orgs/
 All pull requests require:
 
 - 2 approvals
-- All tests passing
+- All required tests passing
 
 ### Milestones
 
