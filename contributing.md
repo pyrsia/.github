@@ -1,6 +1,6 @@
 # Contributing to Pyrsia
 
-It's pronounced `/pərsēə/` or _[ pur-see-ah ]_. :wink:
+It's pronounced `/pərsēə/` or _[ pir-see-ah ]_. :wink: [Watch this for more context](https://youtu.be/yvFiJGMqM_Q).
 
 The following summarizes the process for contributing to the Pyrsia project.
 
