@@ -28,7 +28,7 @@ The `pyrsia` organization maintainers will review and help with merge accepted c
 
 ### Project Board
 
-All open tickets related to on going work are track in a [project board](https://docs.github.com/en/issues/organizing-your-work-with-project-boards).
+All open tickets related to ongoing work are tracked in a [project board](https://docs.github.com/en/issues/organizing-your-work-with-project-boards).
 You can see upcomming, future and completed wokr [here](https://github.com/orgs/pyrsia/projects/2).
 
 ### Pull Request Approval
