@@ -29,14 +29,14 @@ The `pyrsia` organization maintainers will review and help with merge accepted c
 ### Project Board
 
 All open tickets related to ongoing work are tracked in a [project board](https://docs.github.com/en/issues/organizing-your-work-with-project-boards).
-You can see upcomming, future and completed wokr [here](https://github.com/orgs/pyrsia/projects/2).
+You can see upcomming, future and completed work [here](https://github.com/orgs/pyrsia/projects/2).
 
 ### Pull Request Approval
 
 All pull requests require:
 
 - 2 approvals
-- All required tests passing
+- All required checks passing
 
 ### Milestones
 
@@ -44,7 +44,7 @@ All pull requests require:
 
 Milestones are used to represent incremental functionality targets (this definition is subject to change as we move towards our _minimum viable product (MVP)_). These guide posts are used to help prioritize the issues and pull requests.
 
-All pull requests are assigned to a milestone, where as issues are almost never assigned to a milestone as the mean lifetime of an issue long enough that they do not make sense to track them temporally until they are schedualed in an upcoming sprint.
+All pull requests are assigned to a milestone, where as issues are only assigned when they can be tracked temporally in an upcoming sprint.
 
 ### Labels
 
