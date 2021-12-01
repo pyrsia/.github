@@ -6,7 +6,7 @@ The following summarizes the process for contributing to the Pyrsia project.
 
 ## Code of Conduct
 
-We follow the OpenSSF's (Open Source Security Foundation) [code of conduct](https://openssf.org/community/code-of-conduct/)
+We follow the OpenSSF's (Open Source Security Foundation) [code of conduct](https://openssf.org/community/code-of-conduct/).
 
 ## Dev-flow and Pull Requests
 
@@ -61,4 +61,4 @@ They may be used to:
 
 You will need to complete a Contributor License Agreement (CLA) before your pull request can be accepted. This agreement testifies that you are granting us permission to use the source code you are submitting, and that this work is being submitted under appropriate license that we can use it.
 
-You can complete the CLA by going through the steps at [tbe we need a real cla](#). Once we have received the signed CLA, we'll review the request. You will only need to do this once.
+We are currently in the processes of darfting the CLA. Once it's ready, a link will be proveded to sign the document.
