@@ -8,7 +8,7 @@ The following summarizes the process for contributing to the Pyrsia project.
 
 We follow the OpenSSF's (Open Source Security Foundation) [code of conduct](https://openssf.org/community/code-of-conduct/).
 
-## Dev-flow and Pull Requests
+## Dev-flow
 
 Pyrsia follows the ["Forking Workflow"](https://blog.devgenius.io/git-forking-workflow-bbba0226d39c). You can see GitHub's
 [About collaborative development models](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/getting-started/about-collaborative-development-models#fork-and-pull-model).
@@ -26,11 +26,6 @@ To contribute follow the next steps:
 
 The `pyrsia` organization maintainers will review and help with merge accepted changes.
 
-### Project Board
-
-All open tickets related to ongoing work are tracked in a [project board](https://docs.github.com/en/issues/organizing-your-work-with-project-boards).
-You can see upcomming, future and completed work [here](https://github.com/orgs/pyrsia/projects/2).
-
 ### Pull Request Approval
 
 All pull requests require:
@@ -38,7 +33,12 @@ All pull requests require:
 - 2 approvals
 - All required checks passing
 
-### Milestones
+### Project Board
+
+All open tickets related to ongoing work are tracked in a [project board](https://docs.github.com/en/issues/organizing-your-work-with-project-boards).
+You can see upcomming, future and completed work [here](https://github.com/orgs/pyrsia/projects/2).
+
+#### Milestones
 
 [Learn more](https://docs.github.com/en/issues/using-labels-and-milestones-to-track-work/about-milestones)
 
@@ -46,7 +46,7 @@ Milestones are used to represent incremental functionality targets (this definit
 
 All pull requests are assigned to a milestone, where as issues are only assigned when they can be tracked temporally in an upcoming sprint.
 
-### Labels
+#### Labels
 
 [Learn how](https://docs.github.com/en/issues/using-labels-and-milestones-to-track-work/managing-labels#applying-a-label)
 
