@@ -35,8 +35,8 @@ All pull requests require:
 
 ### Project Board
 
-All open tickets related to ongoing work are tracked in a [project board](https://docs.github.com/en/issues/organizing-your-work-with-project-boards).
-You can see upcomming, future and completed work [here](https://github.com/orgs/pyrsia/projects/2).
+All open tickets related to ongoing work are tracked in a [project board](https://docs.github.com/en/issues/organizing-your-work-with-project-boards). 
+At this time the project board is private for @pyrsia/members only. Upcomming, future and completed work [here](https://github.com/orgs/pyrsia/projects/2).
 
 #### Milestones
 
@@ -54,8 +54,8 @@ Labels are used to sort and describe issues and pull requests. Some labels are u
 
 They may be used to:
 
-- highlight the state of completion, such as "In Review" or "Blocked"
-- organizing according to the source code relevant to issues or the source code changed by pull requests, such as "Blockchain", "Discovery", or "Transport"
+- highlight the state of completion, such as "Triage" or "Blocked"
+- organizing according to the source code relevant to issues or the source code changed by pull requests, such as "Blockchain", "Discovery", or "Network"
 
 ## Legal
 
