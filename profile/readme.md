@@ -12,7 +12,7 @@ Right now, an inclusive community is building amazing software together, and the
 * [Explore featured projects](https://github.com/orgs/pyrsia/repositories)
 * [Join our group](https://groups.google.com/g/pyrsia)
 * [Checkout our channel](https://www.youtube.com/channel/UClPQKloIElvJk7EdSST3W5g)
-* [Follow us on Twitter](https://twitter.com/PyrsiaOS)
+* [Follow us on Twitter](https://twitter.com/PyrsiaOSS)
 
 ----
 
