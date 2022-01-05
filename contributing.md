@@ -1,6 +1,6 @@
 # Contributing to Pyrsia
 
-We like to pronounce it `/pərsēə/` or _[ pir-see-ah ]_. :wink: [Listen to this explanation](https://youtu.be/yvFiJGMqM_Q) for more.
+We like to pronounce it `/pərsēə/` or _[ pir-see-ah ]_. 😉 [Listen here](https://www.youtube.com/watch?v=yvFiJGMqM_Q&t=77s).
 
 The following summarizes the process for contributing to the Pyrsia project.
 
