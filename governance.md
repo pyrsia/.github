@@ -84,7 +84,7 @@ The code of conduct MUST set expectations for contributors on expected behavior,
 The [Contributor Covenant](https://www.contributor-covenant.org) has become the de facto standard for this language.
 
 Members of the governance committee will be responsible for handling [Pyrsia code of conduct](code-of-conduct.md)
-violations via pyrsia-code-of-conduct@googlegroups.com.
+violations via [conduct@openssf.org](mailto:conduct@openssf.org).
 
 ## Project Communication Channels
 
@@ -101,4 +101,4 @@ Governance decisions, votes and questions should take place on the pyrsia@google
 Members of the governing board will be given access to these resources:
 
 * Google Groups Administrators
-* [GitHub Org](https://github.com/pyrsia) Administrators
+* [GitHub Org](https://github.com/orgs/pyrsia/teams/admins) Administrators
