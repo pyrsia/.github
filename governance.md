@@ -2,7 +2,7 @@
 
 The initial bootstrap committee will consist of 5 individuals who are core stakeholders and/or contributors.
 
-Members are (in alphabetical order):
+Members are (in alphabetical order by last name):
 
 * Stephen Chin [@steveonjava](https://github.com/steveonjava), JFrog
 * Chris Crone [@chris-crone](https://github.com/chris-crone), Docker
