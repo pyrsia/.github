@@ -11,54 +11,53 @@ We follow the OpenSSF's 🛡️ (Open Source Security Foundation) [code of condu
 ## Dev-flow
 
 Pyrsia follows the ["Forking Workflow"](https://blog.devgenius.io/git-forking-workflow-bbba0226d39c). You can see GitHub's
-[About collaborative development models](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/getting-started/about-collaborative-development-models#fork-and-pull-model).
+[About collaborative development models](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/getting-started/about-collaborative-development-models#fork-and-pull-model) for more details.
 
 To contribute follow the next steps:
 
-1. Comment in the corresponding issue that you want to contribute the package/fix proposed. If there is no open issue, we strongly suggest
+1. Comment in the corresponding issue that you want to contribute. If there is no open issue, we strongly suggest
    opening one to gather feedback from the team.
-2. Fork the [Pyrsia repository](https://github.com/pyrsia/pyrsia/fork) and create a branch from the `main` branch and develop
-   your fix and/or feature as discussed in previous step. See
+2. Fork the [Pyrsia repository](https://github.com/pyrsia/pyrsia/fork) and [create a branch](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-and-deleting-branches-within-your-repository#creating-a-branch)
+   from the `main` branch and develop your fix and/or feature as discussed in previous step. See
    [About forks](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/about-forks) for help.
 3. Try to keep your branch updated with the `main` branch to avoid conflicts. See 
    [Syncing a fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork).
 5. Please make sure to [link any related issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/linking-a-pull-request-to-an-issue)
    to the PR, referring to the issue of step 1.
 
-The `pyrsia` organization maintainers will review and help with merge accepted changes.
+The `pyrsia` organization maintainers will review and help with merge accepted changes. Simply request reivew from [`@pyrsia/collaborators`](https://github.com/orgs/pyrsia/teams/collaborators) and two members will be selected.
 
 ### Pull Requests
 
 PRs are a great way to share what you are working on and get early feedback. Make sure to open as a draft so other know the state.
+Before opening a pull request it's recommended to "clean your commit history", this makes it easier to review by breaking down the work
+and removing some of the cluter and noise of regular development. Check out [this article](https://medium.com/@catalinaturlea/clean-git-history-a-step-by-step-guide-eefc0ad8696d) and [this guide](https://about.gitlab.com/blog/2018/06/07/keeping-git-commit-history-clean/) to learn more.
 
 When PRs are "read for review", there's a few house keeping 🧹 items to keep in mind:
 
 - Make sure to give your PRs a **great title**. These will be the commit messages and should be treated as such.
 - Do _not_ worry about squashing, that is done automatically by GitHub.
+  - It's ideal to clean up any commit messages before confirming the merge to reduce the noise.
 - Try to avoid force pushing you branch. GitHub forces reviewers to restart since it loses their progress.
 - When syncronizing your branch, prefer using merge. Check out [Syncing a fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork) for more details and guidance.
 
 #### Approval Processes
+
+Request reviews from the @pyrsia/collaborators team to select team members for the PR.
 
 All pull requests require:
 
 - 2 approvals
 - All required checks passing
 
+If there are optional checks that fail, it's best to ask the reviewers and bring up the failure at the next team meeting.
+
 ### Project Board
 
 [Learn more](https://docs.github.com/en/issues/organizing-your-work-with-project-boards/managing-project-boards/about-project-boards)
 
 All open tickets related to ongoing work are tracked in a [project board](https://docs.github.com/en/issues/organizing-your-work-with-project-boards). 
-At this time the project board is private for @pyrsia/members but feel free to open an issue if you'd like to be invited. Upcomming, future and completed work [here](https://github.com/orgs/pyrsia/projects/2).
-
-#### Milestones
-
-[Learn more](https://docs.github.com/en/issues/using-labels-and-milestones-to-track-work/about-milestones)
-
-Milestones are used to represent incremental functionality targets (this definition is subject to change as we move towards our _minimum viable product (MVP)_). These guide posts are used to help prioritize the issues and pull requests.
-
-All pull requests are assigned to a milestone, where as issues are only assigned when they can be tracked temporally in an upcoming sprint.
+Upcomming, future and completed work [here](https://github.com/orgs/pyrsia/projects/2).
 
 #### Labels
 
