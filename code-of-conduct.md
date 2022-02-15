@@ -1,6 +1,6 @@
-[Available here](https://openssf.org/community/code-of-conduct/)
-
 # OpenSSF Code of Conduct
+
+[Original copy is available here](https://openssf.org/community/code-of-conduct/)
 
 ## Our Pledge
 
