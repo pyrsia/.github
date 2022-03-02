@@ -20,10 +20,12 @@ To contribute follow the next steps:
 2. Fork the [Pyrsia repository](https://github.com/pyrsia/pyrsia/fork) and [create a branch](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-and-deleting-branches-within-your-repository#creating-a-branch)
    from the `main` branch and develop your fix and/or feature as discussed in previous step. See
    [About forks](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/about-forks) for help.
-3. Try to keep your branch updated with the `main` branch to avoid conflicts. See 
+3. Run the pre-commit hooks before commiting to the repository.
+4. Try to keep your branch updated with the `main` branch to avoid conflicts. See 
    [Syncing a fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork).
 5. Please make sure to [link any related issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/linking-a-pull-request-to-an-issue)
    to the PR, referring to the issue of step 1.
+
 
 The `pyrsia` organization maintainers will review and help with merge accepted changes. Simply request reivew from [`@pyrsia/collaborators`](https://github.com/orgs/pyrsia/teams/collaborators) and two members will be selected.
 
