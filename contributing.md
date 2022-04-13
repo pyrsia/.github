@@ -22,7 +22,7 @@ To contribute follow the next steps:
    [About forks](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/about-forks) for help.
 3. Try to keep your branch updated with the `main` branch to avoid conflicts. See 
    [Syncing a fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork).
-5. Please make sure to [link any related issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/linking-a-pull-request-to-an-issue)
+4. Please make sure to [link any related issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/linking-a-pull-request-to-an-issue)
    to the PR, referring to the issue of step 1.
 
 The `pyrsia` organization maintainers will review and help with merge accepted changes. Simply request reivew from [`@pyrsia/collaborators`](https://github.com/orgs/pyrsia/teams/collaborators) and two members will be selected.
@@ -43,14 +43,21 @@ When PRs are "read for review", there's a few house keeping 🧹 items to keep i
 
 #### Approval Processes
 
-Request reviews from the @pyrsia/collaborators team to select team members for the PR.
+Request reviews from the [`@pyrsia/collaborators`](https://github.com/orgs/pyrsia/teams/collaborators) team to assign team members for the PR.
+They are responsible for making sure the PR is reviewed in a timely manner; they are expected to make time. Approvals are **not** limtied to the assigned reviewers, anyone on the team can and should review each PR.
+
+Specific indivudals or "topic teams" may also be assigned (only after collaborators has been assigned so the GitHub automation can work properly). Approvals from "topic teams" are highly sought after but pull requests are _strongly encouraged_ to include reviews from the team at large.
 
 All pull requests require:
 
-- 2 approvals
+- 2 approvals (from any team member)
 - All required checks passing
 
 If there are optional checks that fail, it's best to ask the reviewers and bring up the failure at the next team meeting.
+
+#### Merging Suggestions
+
+- Cleanup the commit message and description, remove lines like "wip" or "fix typo" so the reader has less clutter to sort through
 
 ### Project Board
 
