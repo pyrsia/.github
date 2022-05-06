@@ -1,6 +1,6 @@
 ![Pyrsia](/images/logo-color.svg)
 
-> Zero-Trust Decentralized Package Network
+> Decentralized Package Network
 
 We care about improving the security of open source software and the supply chain security of these libraries that are critical for software development.
 Pyrsia aims to secure the software supply chain of open-source dependencies by creating a system that secures open-source builds and distribution.
