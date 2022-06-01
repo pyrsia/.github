@@ -25,11 +25,12 @@ To contribute follow the next steps:
 4. Please make sure to [link any related issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/linking-a-pull-request-to-an-issue)
    to the PR, referring to the issue of step 1.
 
-The `pyrsia` organization maintainers will review and help with merge accepted changes. Simply request reivew from [`@pyrsia/collaborators`](https://github.com/orgs/pyrsia/teams/collaborators) and two members will be selected.
+When opening your PR, `CODEOWNERS` should fire and assign your request to one or more `pyrsia` organization teams.
+They will then review and help with merging accepted changes.
 
 ### Pull Requests
 
-PRs are a great way to share what you are working on and get early feedback. Make sure to open as a draft so other know the state.
+PRs are a great way to share what you are working on and get early feedback. Make sure to [open as a draft](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests#draft-pull-requests) so other know the state.
 Before opening a pull request it's recommended to "clean your commit history", this makes it easier to review by breaking down the work
 and removing some of the cluter and noise of regular development. Check out [this article](https://medium.com/@catalinaturlea/clean-git-history-a-step-by-step-guide-eefc0ad8696d) and [this guide](https://about.gitlab.com/blog/2018/06/07/keeping-git-commit-history-clean/) to learn more.
 
