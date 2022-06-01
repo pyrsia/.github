@@ -82,4 +82,4 @@ They may be used to:
 
 You will need to complete a Contributor License Agreement (CLA) before your pull request can be accepted. This agreement testifies that you are granting us permission to use the source code you are submitting, and that this work is being submitted under appropriate license that we can use it.
 
-For each pull request, all commit authors are required to sign the [Contributing License Agreement]](https://jfrog.com/cla/). We are using [CLA Assistant](https://cla-assistant.io/) which requires commit email to match your GitHub account. You can view signed CLAs through their site.
+For each pull request, all commit authors are required to sign the [Contributing License Agreement](https://jfrog.com/cla/). We are using [CLA Assistant](https://cla-assistant.io/) which requires commit email to match your GitHub account. You can view signed CLAs through their site.
