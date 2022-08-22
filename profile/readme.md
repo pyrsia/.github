@@ -9,7 +9,8 @@ Pyrsia aims to secure the software supply chain of open-source dependencies by c
 
 Right now, an inclusive community is building amazing software together, and there are excellent "good first issue" opportunities, if you're looking to get involved.
 
-* [Explore featured projects](https://github.com/orgs/pyrsia/repositories)
+* [View our Project Board](https://github.com/orgs/pyrsia/projects/3)
+* [Explore our codebase](https://github.com/pyrsia/pyrsia)
 * [Join our group](https://groups.google.com/g/pyrsia)
 * [Checkout our channel](https://www.youtube.com/channel/UClPQKloIElvJk7EdSST3W5g)
 * [Follow us on Twitter](https://twitter.com/PyrsiaOSS)
