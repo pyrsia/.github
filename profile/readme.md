@@ -7,12 +7,10 @@ Pyrsia aims to secure the software supply chain of open-source dependencies by c
 
 ## Get Involved
 
-Right now, an inclusive community is building amazing software together, and there are excellent "good first issue" opportunities, if you're looking to get involved.
-
-* [Explore project board](https://github.com/orgs/pyrsia/projects/3)
-* [Join our group](https://groups.google.com/g/pyrsia)
-* [Checkout our channel](https://www.youtube.com/channel/UClPQKloIElvJk7EdSST3W5g)
-* [Follow us on Twitter](https://twitter.com/PyrsiaOSS)
+* [Poject board](https://github.com/orgs/pyrsia/projects/3)
+* [Google group](https://groups.google.com/g/pyrsia)
+* [Youtube Channel](https://www.youtube.com/channel/UClPQKloIElvJk7EdSST3W5g)
+* [Twitter](https://twitter.com/PyrsiaOSS)
 
 ----
 
