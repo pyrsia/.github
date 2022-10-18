@@ -16,5 +16,5 @@ Pyrsia aims to secure the software supply chain of open-source dependencies by c
 
 ----
 
-Pyrsia projects adopt the [OpenSSF's Code of Conduct](https://openssf.org/community/code-of-conduct/).
+Pyrsia projects adopt the [Cd Foundation's Code of Conduct](https://github.com/cdfoundation/.github/blob/main/CODE_OF_CONDUCT.md).
 For more information see the [Code of Conduct FAQ](https://www.contributor-covenant.org/faq/).
